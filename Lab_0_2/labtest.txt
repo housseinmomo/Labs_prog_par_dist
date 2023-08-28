@@ -1,0 +1,6 @@
+ Make,Insurance Class,Premium ($),Age (years)
+ Ferrari,10,2432.50,3
+ BMW,8,1231.10,1
+ VW,6,862.20,4
+ Fiat,4,591.10,2
+ Bugatti,15,4312.00,1
